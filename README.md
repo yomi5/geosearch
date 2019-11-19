@@ -1,2 +1,3 @@
 # geosearch
 web weather app
+an all round app showing detailed information about a place of interest....
